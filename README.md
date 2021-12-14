@@ -4,7 +4,7 @@ Hi there
 - 📫 How to find me: 
 
 
- -[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />iremckirr
+ -[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />[iremckirr]
 
   - :office: [LinkedIn](https://www.linkedin.com/in/iremcakır/)
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=iremcakirrr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
