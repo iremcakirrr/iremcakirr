@@ -6,8 +6,8 @@ Hi there
 
  -[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />https://www.instagram.com/iremckirr]
 
-  - :office: [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/irem-%C3%A7ak%C4%B1r-35aa90105/)
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=iremcakirrr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  - :office: [LinkedIn]https://www.linkedin.com/in/iremçakır-%C3%A7ak%C4%B1r-35aa90105/)
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=iremcakirrr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iremcakirrr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
   
 
